@@ -4,4 +4,4 @@ def square_perimeter(side=a): # вычисляет периметр квадра
   return 4 * side
 
 def square_area(side=a): # вычисляет площадь фигуры
-  side ** 2
+  return side ** 2
